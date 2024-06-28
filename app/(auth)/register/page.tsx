@@ -1,6 +1,8 @@
+import { RegisterForm } from '@/components/auth/register-form'
+
 const RegisterPage = () => {
   return (
-    <div>From register</div>
+    <RegisterForm />
   )
 }
 
